@@ -17,7 +17,7 @@ Interface = React.createClass({
 					  										"posterHeight":270,
 					  										"scale":0.9,
 					  										"autoplay":"true",
-					  										"delay":4000,
+					  										"delay":2000,
 					  										"verticalAlign":"middle",
 					  									}} />					    
 					    
