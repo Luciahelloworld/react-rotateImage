@@ -29,3 +29,5 @@ delay:当autoPlay为true，delay为刷新时间。默认为4000.
 
 verticalAlign:层级分布效果.默认为"middle"
 
+![Aaron Swartz](https://github.com/Luciahelloworld/react-rotateImage/raw/master/interface/public/sources/demo.gif)
+
