@@ -4,6 +4,7 @@
 这是一个网页的组件。 实现的功能是类似于旋转木马，图片一帧一帧的转动切换
 
 你可以在通过设置组建的setting{
+
                               width:___, 
                               height:_, 
                               posterWidth:____, 
@@ -11,7 +12,8 @@
                               scale:____, 
                               autoPlay:___, 
                               delay:_, 
-                              verticalAlign:___  }
+                              verticalAlign:___  
+                              }
 
 
 width,height: 对应组件的整体整体的宽和高,
