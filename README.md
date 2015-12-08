@@ -5,7 +5,6 @@
 
 你可以在通过设置组建的setting{
                               width:___, 
-                              
                               height:_, 
                               posterWidth:____, 
                               posterHeight:, 
