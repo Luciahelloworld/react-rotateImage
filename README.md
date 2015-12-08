@@ -1,4 +1,12 @@
 # react-rotateImage
+
+
+![Aaron Swartz](https://github.com/Luciahelloworld/react-rotateImage/raw/master/interface/public/sources/demo.gif)
+
+
+
+
+
 前两天看见一个大神用html和js做了一个“旋转木马的demo”，所以我用react模仿他也做了了一个类似的demo，希望大家给出建议，做的更完美
 图片一帧一帧的切换
 
@@ -29,5 +37,5 @@ delay:当autoPlay为true，delay为刷新时间。默认为4000.
 
 verticalAlign:层级分布效果.默认为"middle"
 
-![Aaron Swartz](https://github.com/Luciahelloworld/react-rotateImage/raw/master/interface/public/sources/demo.gif)
+
 
